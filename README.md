@@ -2,16 +2,19 @@
 
 We are uncovering better ways of developing software alongside AI. Through this work we have come to value:
 
-**Shared understanding** over working software  
-**Independent challenge** over efficient agreement  
-**Teaching the why** over delivering the what  
+**Shared understanding** over working software
+
+**Independent challenge** over efficient agreement
+
+**Teaching the why** over delivering the what
+
 **Pace of learning** over pace of shipping
 
 That is, while there is value in the items on the right, we value the items on the left more.
 
 ## Value Arguments
 
-"Individuals and interactions over processes and tools" argues that people matter more than process.
+"Individuals and interactions over processes and tools" argues that people matter more than process.
 This addendum argues that what those people understand matters more than what they produce with AI.
 
 "Working software over comprehensive documentation" argues that working software is more important than documentation.
@@ -35,22 +38,22 @@ The twelve principles behind the Agile Manifesto still hold. Three need refineme
 
 ## Principle Arguments
 
-Original: "Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale."
+"Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale."
 The original optimizes for delivery speed because delivery and understanding were intertwined.
 The update acknowledges that AI broke this assumption, and requires the team to understand a solution before delivering it.
 
-Original: "Working software is the primary measure of progress."
+"Working software is the primary measure of progress."
 The original assumed that working software was a proxy for understanding.
 The update makes explicit what the original was tracking by proxy.
 
-Original: "Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely."
+"Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely."
 The original protects against burnout from overwork.
 The update recognizes that burnout also comes from the accumulated cost of maintaining code the team doesn't understand.
 
 ## Author
 
-Matthew Cullum
-VP of Engineering, [thatDot Inc.](https://www.thatdot.com/)
+Matthew Cullum  
+VP of Engineering, [thatDot Inc.](https://www.thatdot.com/)  
 March 13, 2026
 
 Twenty years leading software engineering teams, from system architecture to organization design.

@@ -6,4 +6,4 @@ To add your name, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
-**Matthew Cullum**, VP of Engineering, thatDot Inc., [LinkedIn](https://www.linkedin.com/in/mattcullum/)
+**Matthew Cullum**, VP of Engineering, [thatDot Inc.](https://www.thatdot.com/), [LinkedIn](https://www.linkedin.com/in/mattcullum/)

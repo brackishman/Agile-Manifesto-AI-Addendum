@@ -50,7 +50,7 @@ The update recognizes that burnout also comes from the accumulated cost of maint
 ## Author
 
 Matthew Cullum
-VP of Engineering, thatDot Inc.
+VP of Engineering, [thatDot Inc.](https://www.thatdot.com/)
 March 13, 2026
 
 Twenty years leading software engineering teams, from system architecture to organization design.

@@ -1,60 +1,28 @@
-# Addendum to the Agile Manifesto
+# Amending Principle 7 of the Agile Manifesto
 
-We are uncovering better ways of developing software alongside AI. Through this work we have come to value:
+"At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly." — Principle 12
 
-**Shared understanding** over working software
+This is that reflection.
 
-**Independent challenge** over efficient agreement
+## What changed
 
-**Teaching the why** over delivering the what
+AI decoupled production from comprehension. Teams can now ship working software that nobody on the team understands. When the manifesto was written, working software meant someone understood the problem enough to write, debug, and test every line of code. Someone necessarily understood all implementation choices made along the way. With AI, this is no longer true.
 
-**Pace of learning** over pace of shipping
+That assumption is embedded in Principle 7.
 
-That is, while there is value in the items on the right, we value the items on the left more.
+## The broken principle
 
-## Value Arguments
+**Original:** "Working software is the primary measure of progress."
 
-"Individuals and interactions over processes and tools" argues that people matter more than process.
-This addendum argues that what those people understand matters more than what they produce with AI.
+This principle is now actively misleading. Working software is no longer evidence that anyone understood the problem, designed the solution, or can maintain what was built. A team measuring progress by working software alone will measure themselves as thriving while their comprehension degrades.
 
-"Working software over comprehensive documentation" argues that working software is more important than documentation.
-This addendum argues that the way we arrive at working software matters. It is no longer the case that working software is proof that the team understood the problem.
-
-"Customer collaboration over contract negotiation" argues that understanding develops in conversations with the customer, not in the contract.
-This addendum extends this argument inward to the conversations between team members.
-
-"Responding to change over following a plan" argues we should respond to change rather than following a rigid plan.
-This addendum argues that people cannot respond to change if they do not understand what they already built.
-
-## Addendum to the Principles behind the Agile Manifesto
-
-The twelve principles behind the Agile Manifesto still hold. Three need refinement:
-
-3\. Deliver working software frequently, but never faster than it can be deeply understood.
-
-7\. Shared understanding of the systems we build, demonstrated through working software the team can explain, is the primary measure of progress.
-
-8\. Agile processes promote sustainable development. Sponsors, developers, and users should be able to maintain a constant pace of building shared understanding indefinitely.
-
-## Principle Arguments
-
-"Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale."
-The original optimizes for delivery speed because delivery and understanding were intertwined.
-The update acknowledges that AI broke this assumption, and requires the team to understand a solution before delivering it.
-
-"Working software is the primary measure of progress."
-The original assumed that working software was a proxy for understanding.
-The update makes explicit what the original was tracking by proxy.
-
-"Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely."
-The original protects against burnout from overwork.
-The update recognizes that burnout also comes from the accumulated cost of maintaining code the team doesn't understand.
+**Amendment:** Working software the team can explain is the primary measure of progress.
 
 ## Author
 
-Matthew Cullum  
-VP of Engineering, [thatDot Inc.](https://www.thatdot.com/)  
-March 13, 2026
+Matthew Cullum
+VP of Engineering, [thatDot Inc.](https://www.thatdot.com/)
+March 2026
 
 Twenty years leading software engineering teams, from system architecture to organization design.
 
